@@ -1,0 +1,6 @@
+# data files
+/data/*
+
+# Vim temporary and swap files
+*~
+*.swp
